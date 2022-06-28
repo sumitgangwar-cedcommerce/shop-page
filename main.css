@@ -1,0 +1,21 @@
+#peach_color{
+    background-color: #ffe9ec;
+
+}
+.checked {
+    color: orange;
+}
+#red-color{
+    background-color:red;
+}
+.checked1{
+    color:white;
+}
+#purple_color{
+    background-color:#000c19;
+   
+}
+.search{
+    width:100%;
+    border-radius:20px;
+}
